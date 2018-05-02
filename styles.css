@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #515f67;
+    color:white;
+}
+div#container{
+    padding:0px;
+}
+div#top-content{
+    padding:0px;
+    background:url("images/banner.jpg");
+}
+header{
+    background:rgba(53,63,70,0.85);
+}
+div#services{
+    background:#4bcaff;
+}
+div#portfolio{
+    background:#fff;
+    color:#69747b;
+}
+div#default-section{
+    background:#515f67;
+}
+div#twitter{
+    background:#4bcaff;
+}
+div#whois{
+    background: url("images/whoisbg.jpg");
+}
+div#testimonials{
+    background:#fff;
+    color:#69747b;
+}
+div#contact{
+    background:url("images/contact-bg.jpg");
+}
+footer{
+    background: #353f47;
+    color:#515f67;
+}
